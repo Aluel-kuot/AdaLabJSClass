@@ -4,10 +4,10 @@ let num2=new Array(24,true,"hello",38);
 console.log(num);
 console.log(num2);
 num.push("foots");
-//Add element at the end of the array
 console.log(num);
-//add at the end
+//rmoves the first index element
 num.shift(3)
+//add at the end
 console.log(num);
 num.pop("hello");
 console.log(num);
