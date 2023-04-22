@@ -3,3 +3,4 @@ for(let element of num){
     console.log(element)
     console.log(num.indexOf(element))
 }
+
