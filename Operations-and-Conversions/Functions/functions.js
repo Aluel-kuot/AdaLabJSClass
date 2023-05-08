@@ -10,3 +10,7 @@ function multiply(a,b){
 console.log(multiply(12,4))
 
 // argumements:keyword
+function modulus(d,e){
+    console.log(d/e)
+}
+modulus(5,2)
