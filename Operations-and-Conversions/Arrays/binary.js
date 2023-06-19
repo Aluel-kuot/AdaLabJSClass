@@ -10,7 +10,7 @@ else if (num[middle]< target){
 left =middle+1
     }
     else {
-    right+middle+1
+    right=middle+1
     }
 
 }

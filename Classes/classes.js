@@ -7,6 +7,7 @@ class Person{
     greet(){
         console.log("Hello")
     }
+    
     }
     let person=new Person('Hannah',30,'5ft 8inch')
     console.log({person});

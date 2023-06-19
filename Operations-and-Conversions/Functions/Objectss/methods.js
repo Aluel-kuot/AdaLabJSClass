@@ -16,4 +16,4 @@ student.hobby();
 
 // deleting a value/
 delete student.age;
-console.log(student);
+console.log(student);middle
