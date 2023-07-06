@@ -31,4 +31,4 @@ class Person{
     }
     
     let sister=new Sister('Amada',20,'5ft','average');
-    console.log({sister});
+    console.log(sister.greet);
